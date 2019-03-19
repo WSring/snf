@@ -1,0 +1,14 @@
+The language folders contain the admin_invite_email.md files used by /mod/admin.php
+
+The native text used in past from the admin.php code is placed in /view/lang/en-us/admin_invite_email.md
+and will be used by default if no admin_invite_email.md file exists in a specific language.
+
+Note, as of Friendica edition 2019.01 prod, there is no en folder, but en-gb and en-us.
+
+The content bodies for the admin invitations are:
+* de      a new polite text written by me,
+* en-gb   a translated text from de to en, 
+* en-us   is the old text taken from the former admin.php file,
+* es      is the raw translation from de to es (needs revision by a native speaker).
+
+Hilmar, Mar 2019
